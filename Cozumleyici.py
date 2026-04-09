@@ -2,22 +2,7 @@ import tkinter as tk
 
 # Kütüphane (Buradaki veriler büyük olsa bile program şıklaştıracak)
 kutuphane = {
-    "ABD": "ASLI BÜŞRA DEMİRBAŞ", "AFD": "ALİ FURKAN DAYI", "AB": "AYKUT BÜRME","AMH":"ARSLAN MUSTAFA HOT" ,"EYA":"EMRE YİĞİT ARAS","AY":"ATİKE YELTEPE",
-    "ACS": "AYŞENUR CEREN SEYHUN", "AU": "ALPEREN ÜREY", "BA": "BUKET ASLANER",
-    "BEK": "BERK KAYALI", "BB": "BURAK BAYRAKTAR",
-    "BO": "BURAK ÖKTEN", "DC": "DURALİ ÇAM", "DS": "DERYA SABANCI",
-    "DT": "DOĞAN TÜRE", "EA": "ENES ARSLAN", "EAR": "EMRE ARTIK",
-    "EAT": "ERKAM ATA", "ET": "EMRE TAMER", "EEE": "ENSAR EMİN ERSOY",
-    "EE": "ENES EROL", "FC": "FURKAN CENKIŞ", "FS": "FADİME ŞAHİN",
-    "FE": "FERHAT ERSAN", "GK": "GÜLER KOLLAYAN", "GOS": "GAMZE OCAK ŞENOL",
-    "İBC": "İREM BETÜL CENGE", "İO": "İSMAİL ÖLÇER", "İEB": "İSMAİL ENES BİLGİN",
-    "KUO": "KENAN UMUT OLPAK", "MK": "MEHMET KOLLAYAN", "MBT": "MUSTAFA BURAK TOKSOY",
-    "MEY": "MUHAMMED EMİN YÜCEL", "MMK": "MUHAMMED MUSTAFA KÖSE",
-    "MTT": "MEHMET TUĞBERK TÜRKOĞLU", "MOV": "MUSTAFA OVACIKLI", "MOZ": "MEHMET ÖZTÜRK",
-    "NBY": "NECATİ BERKAY YEDİLER", "NGA": "NURAY GENÇER AYDIN", "NT": "NİYAZİ TUNÇ",
-    "OA": "ÖZLEM ARSLAN", "OK": "OĞUZHAN KARABAL", "PS": "PINAR SÖNMEZ",
-    "RC": "RUMEYSA COŞGUNYÜREK", "SA": "SAMET AYDEMİR", "SS": "SERKAN ŞEN","KBC":"KADİR BUĞRA CENGİZ",
-    "TK": "TUNCAY KOÇAK", "TU": "TÜLAY ÜNAL", "UB": "UĞUR BOZKIR", "UO": "UĞUR ÖZBEN","HS":"HASAN ŞENER"
+    "isim kısaltmasını ekleyin":"isim açılımını ekleyin"
 }
 
 def sorgula(event=None):
