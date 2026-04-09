@@ -19,6 +19,12 @@ Bu proje, bir İnsan Kaynakları departmanının tüm operasyonel araçlarını 
 * **Dil:** Python 3.12+
 * **Kütüphaneler:** Tkinter, Pillow, Subprocess, PyInstaller.
 * **Renk Paleti:** Kurumsal Kırmızı (#913619) ve Koyu Mavi (#2C3E50).
+### exe indir çalıştır zip dosyası ektedir(not: database klasörü uzantısını değiştirmeniz gerekmektedir c:/users(zideki uzantı.... ). ): https://limewire.com/d/tODDX#6WjF62buFf
+
+
+
+Contact: yavuss@icloud.com
+IG:@ yavusyldrm
 
 ---
 
