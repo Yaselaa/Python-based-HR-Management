@@ -26,6 +26,8 @@ Bu proje, bir İnsan Kaynakları departmanının tüm operasyonel araçlarını 
 Contact: yavuss@icloud.com
 IG:@ yavusyldrm
 
+Projenin tüm hakları bana aittir ticari ve gelir elde etme amacıyla kullanılamaz.
+
 ---
 
 <a name="en"></a>
@@ -55,3 +57,5 @@ database/
 ├── veri_analizi.py         # Data Analysis Utility
 ├── dosya_duzenleyici.py    # File Management Tool
 └── app_logo.png            # Corporate Branding Asset
+Disclaimer: This Project Done for educational purposes
+All rights belong to me and cannot be used for commercial or profit-making purposes.
