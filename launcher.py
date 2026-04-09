@@ -8,7 +8,7 @@ class ModernLauncher(tk.Tk):
     def __init__(self):
         super().__init__()
         # --- AYARLAR ---
-        self.db_yolu = r"C:\Users\stajyer\Desktop\database"
+        self.db_yolu = r"C:\Users\xkullanici\Desktop\database"
         # Logonun adı neyse buraya onu yaz 
         self.logo_adi = "yenilogo.png"    
         self.title("ARTI IK - Toolkits")
